@@ -26,7 +26,7 @@
 
 Unimate在美国市场生意惨淡，1969年，Unimation公司的工业机器人进入经济正在起飞的日本市场。Unimation公司与日本川崎重工（Kawasaki Heavy Industries）签订许可协议，生产Unimate机器人专供亚洲市场销售。川崎把开发和生产能节省劳动力的机器人和系统作为一项重要任务来完成，成为日本在工业机器人领域的先驱。1969年，川崎重工公司成功开发了Kawasaki -Unimate2000机器人，这是日本生产的第一台工业机器人。
 
-![1968 The Kawasaki Unimate](src/videos/1968_The_Kawasaki_Unimate.gif)
+[![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjA2NA==)
 
 机械臂发展历史经历了40-50年代“萌芽”、60-70年代“初级”、80-90年代“迅速发展”、当前“智慧化”四个阶段。
 
