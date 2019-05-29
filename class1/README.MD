@@ -22,7 +22,7 @@
 
 该专利的要点是借助伺服技术控制机器人的关节。1956年乔治·德沃尔（George Devol）和物理学家约瑟·英格柏格（Joe Engelberger）成立了一家名为Unimation的公司，研发出第一台工业用机械手臂，名为“Unimate”。
 
-![UNIMATE - ROBOT](src/videos/UNIMATE_ ROBOT.gif)
+![UNIMATE - ROBOT](src/videos/UNIMATE_ROBOT.gif)
 
 [![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjgwNA==)
 
