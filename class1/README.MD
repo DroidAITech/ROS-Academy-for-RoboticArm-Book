@@ -18,8 +18,7 @@
 
 1954年美国人乔治·德沃尔（George Devol），下图这个帅哥，最早提出了工业机器人的概念，并申请了专利。
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XNzE3NTA2ODQw' frameborder=0 'allowfullscreen'></iframe>
-
+[georgedevol](http://player.youku.com/embed/XNzE3NTA2ODQw)
 
 ![georgedevol](src/images/georgedevol.jpg)
 
