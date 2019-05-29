@@ -34,7 +34,7 @@ Unimate在美国市场生意惨淡，1969年，Unimation公司的工业机器人
 
 下面我们看一个视频，了解一下没上过大学的乔治·德沃尔是如何发明第一个数字、可编程机械臂的。希望同学们向乔治·德沃尔学习，英雄不问出处，只要你胸中有梦想、勇于实现，相信大家都会创造奇迹。
 
-<video src="src/videos/Industrial Robots History.mp4"></videos>
+[![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjA2OA==)
 
 **当今的机械臂**
 
@@ -43,7 +43,8 @@ Unimate在美国市场生意惨淡，1969年，Unimation公司的工业机器人
 ```
 MoveIt!是ROS的机械臂运动规划框架(Motion Planning Framework)
 ```
-<video src="src/videos/MoveIt! Montage 2017.mp4"></videos>
+
+[![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjA3Mg==)
 
 **工业机器人四大家族**
 
@@ -59,8 +60,7 @@ MoveIt!是ROS的机械臂运动规划框架(Motion Planning Framework)
 
 接下来我们看看ROS能做什么？以下录像是2017年底ROS诞生10周年官方发布的视频。
 
-<video src="src/videos/ROS 10 Year Montage.MP4"></videos>
-
+[![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjQxNg==)
 
 为了方便理解，我们可以把ROS理解成框架+工具+功能+社区。
 
