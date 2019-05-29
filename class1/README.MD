@@ -22,9 +22,13 @@
 
 该专利的要点是借助伺服技术控制机器人的关节。1956年乔治·德沃尔（George Devol）和物理学家约瑟·英格柏格（Joe Engelberger）成立了一家名为Unimation的公司，研发出第一台工业用机械手臂，名为“Unimate”。
 
+![UNIMATE - ROBOT](src/videos/UNIMATE - ROBOT.gif)
+
 [![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjgwNA==)
 
 Unimate在美国市场生意惨淡，1969年，Unimation公司的工业机器人进入经济正在起飞的日本市场。Unimation公司与日本川崎重工（Kawasaki Heavy Industries）签订许可协议，生产Unimate机器人专供亚洲市场销售。川崎把开发和生产能节省劳动力的机器人和系统作为一项重要任务来完成，成为日本在工业机器人领域的先驱。1969年，川崎重工公司成功开发了Kawasaki -Unimate2000机器人，这是日本生产的第一台工业机器人。
+
+![1968 The Kawasaki Unimate](src/videos/1968 The Kawasaki Unimate.gif)
 
 [![Unimate](src/images/player.png)](http://player.youku.com/embed/XNDIwMDk1MjA2NA==)
 
